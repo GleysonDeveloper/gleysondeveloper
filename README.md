@@ -40,11 +40,3 @@ If you'd like to collaborate or just say hello:
 **✉️ Email:** gleysondev@yahoo.com.com *(replace with your real email)*
 
 ---
-
-## 📈 GitHub Stats
-![Gleyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=gleysondeveloper&show_icons=true&theme=dracula)
-
----
-
-## 🐍 GitHub Contribution Snake
-![snake gif](https://github.com/gleysondeveloper/gleysondeveloper/blob/output/github-contribution-grid-snake.svg)
