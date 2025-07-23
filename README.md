@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou o João Silva 👋
 
-<!--
-**GleysonDeveloper/gleysondeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação. 🚀
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estudando React e TypeScript
+- 💼 Trabalhando em projetos freelancers
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/joaosilva)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+
+## 📈 Estatísticas do GitHub
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaosilva&show_icons=true&theme=dracula)
