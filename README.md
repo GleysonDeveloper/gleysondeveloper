@@ -1,15 +1,50 @@
-# Olá, eu sou o João Silva 👋
+# Hello, I'm Gleyson Alves 👋
 
-Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação. 🚀
+I'm a PHP/Laravel developer passionate about technology and innovation. 🚀
 
-- 🌱 Atualmente estudando React e TypeScript
-- 💼 Trabalhando em projetos freelancers
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/joaosilva)
+- 🌱 Currently learning PHP, Laravel, jQuery, and MySQL  
+- 💼 Working at **Cotefrete** — [www.cotefrete.com.br](https://www.cotefrete.com.br)
 
-## 🛠️ Tecnologias e Ferramentas
+---
+
+## 🧑‍💻 About Me
+
+I enjoy solving real-world problems with clean and efficient code.  
+My focus is on backend development, system integration, and creating scalable applications using the Laravel framework.
+
+---
+
+## 🛠️ Technologies & Tools
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![API](https://img.shields.io/badge/-API-4B8BBE?logo=apache&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+---
 
-## 📈 Estatísticas do GitHub
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaosilva&show_icons=true&theme=dracula)
+## 🚀 Featured Projects
+
+> _Coming soon – stay tuned!_  
+> *(You can list and link your best or most recent projects here.)*
+
+---
+
+## 📬 Contact
+
+If you'd like to collaborate or just say hello:  
+**✉️ Email:** gleysondev@yahoo.com.com *(replace with your real email)*
+
+---
+
+## 📈 GitHub Stats
+![Gleyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=gleysondeveloper&show_icons=true&theme=dracula)
+
+---
+
+## 🐍 GitHub Contribution Snake
+![snake gif](https://github.com/gleysondeveloper/gleysondeveloper/blob/output/github-contribution-grid-snake.svg)
