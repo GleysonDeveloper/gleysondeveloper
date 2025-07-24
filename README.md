@@ -37,6 +37,6 @@ My focus is on backend development, system integration, and creating scalable ap
 ## 📬 Contact
 
 If you'd like to collaborate or just say hello:  
-**✉️ Email:** gleysondev@yahoo.com.com *(replace with your real email)*
+**✉️ Email:** gleysondev@yahoo.com
 
 ---
