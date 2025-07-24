@@ -3,7 +3,7 @@
 I'm a PHP/Laravel developer passionate about technology and innovation. 🚀
 
 - 🌱 Currently learning PHP, Laravel, jQuery, and MySQL  
-- 💼 Working at **Cotefrete** — [www.cotefrete.com.br](https://www.cotefrete.com.br)
+- 💼 Working at [**Cotefrete**](https://www.cotefrete.com.br)
 
 ---
 
